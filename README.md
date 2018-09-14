@@ -30,7 +30,7 @@ Do you have multiple emails, and want to combine all of them into a single text 
 ### Step 2. Generate your first report
 After you have saved the report from your email into a text file, go to the [application](https://edwardhuh.shinyapps.io/webscrapingqc/). 
 Press the `Upload` button in the red circled area. This should show you all the text files saved in your folders.
-![SecondScreen](/img/Circled.JPG)
+![SecondScreen](upload.gif)
 Navigate your way to the folder you saved your reports in. Then attach them.
 You can upload multiple text files at once! Do so by dragging on multiple files with your mouse. Or hold down the `Ctrl` button as you click the files.
 
@@ -38,12 +38,11 @@ You can upload multiple text files at once! Do so by dragging on multiple files 
 Do you have CAUSAL data in your text files that you would like to explore, alongside the regular QC data?
 If not, move to Step 4.
 If yes, please check this box that is highlighted in purple:
-![CausalScreen](/img/Circled Causal.JPG)
 
 
 ### Step 4: Observe your data in the dashboard. If you like it, download it!
 You can do so by clicking on the Yellow box that is circled in the below image: 
-![DownloadScreen](/img/DOWNLOad.JPG)
+![DownloadScreen](download.gif)
 Note that the changes made in the dashboard will NOT be reflected in the excel file.
 
 
