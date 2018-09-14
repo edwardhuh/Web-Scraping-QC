@@ -1,6 +1,6 @@
 fluidPage(
   # App Title
-  titlePanel("SKB QC Document BuildR")
+  titlePanel("Webscraping QC Document BuildR")
   
   #Sidebar layout with input and output definitions
   , sidebarLayout(
