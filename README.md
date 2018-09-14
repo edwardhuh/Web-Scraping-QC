@@ -1,10 +1,10 @@
-# SKB QC Report Builder Documentation
+# WebScraping QC Report Builder Documentation
 
 
 ## Introduction
 
 The aim of this application is to create a dashboard that allows anyone to convert large amounts of customer loyalty data into formatted excel sheets of data in an intuitive and reliable manner. 
-The simplicity of the application was made possible because of a [Shiny Application](http://lnx1532.infores.com/pdedw/prd/skb_qc_builder%28demo%29/).
+The simplicity of the application was made possible because of a [Shiny Application](https://edwardhuh.shinyapps.io/webscrapingqc/).
 I recommend you look click on this highlight to see the basic structure of the application prior to proceeding to the next chapter. 
 
 
@@ -14,7 +14,7 @@ These instructions are meant to help guide a person completely unfamiliar with t
 
 
 ### Step 0. Launch the application. Open your Outlook (or any other email handling device)
-The [application](http://lnx1532.infores.com/pdedw/prd/skb_qc_builder%28demo%29/) should look like this:
+The [application](https://edwardhuh.shinyapps.io/webscrapingqc/) should look like this:
 If this is not what you are seeing, jump to the section Common Bugs.
 ![FirstScreen](/img/Original.JPG)
 <If you already have the data that you want to generate your reports with, skip to Step 2>
@@ -28,7 +28,7 @@ Do you have multiple emails, and want to combine all of them into a single text 
 
 
 ### Step 2. Generate your first report
-After you have saved the report from your email into a text file, go to the [application](http://lnx1532.infores.com/pdedw/prd/skb-qc-builder%28demo%29/). 
+After you have saved the report from your email into a text file, go to the [application](https://edwardhuh.shinyapps.io/webscrapingqc/). 
 Press the `Upload` button in the red circled area. This should show you all the text files saved in your folders.
 ![SecondScreen](/img/Circled.JPG)
 Navigate your way to the folder you saved your reports in. Then attach them.
