@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------
-# Shiny App development for SKB QC 
+# Shiny App development for QC 
 # Function : Global.R
 # By: Edward Huh
 # UPDATE: 9/10/2018 - taking care of causal. streamline code 
